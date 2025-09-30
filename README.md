@@ -6,5 +6,6 @@
 - [XatlasLightmap](https://github.com/z3y/XatlasLightmap) - Best lightmap packing for Unity
 - [ClusteredBIRP](https://github.com/z3y/ClusteredBIRP) - Clustered lighting for the built-in unity pipeline
 - [PrefabsBrowser](https://github.com/z3y/prefabs-browser) - A pretty website for the VRChat prefabs spreadsheet
+- [VRCTrace](https://github.com/z3y/VRCTrace) - Software GPU Ray Tracing for VRChat
 
 ### [Patreon](https://www.patreon.com/z3y)
