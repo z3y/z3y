@@ -7,5 +7,6 @@
 - [ClusteredBIRP](https://github.com/z3y/ClusteredBIRP) - Clustered lighting for the built-in unity pipeline
 - [PrefabsBrowser](https://github.com/z3y/prefabs-browser) - A pretty website for the VRChat prefabs spreadsheet
 - [VRCTrace](https://github.com/z3y/VRCTrace) - Software GPU Ray Tracing for VRChat
+- [UIPlus](https://z3y.booth.pm/items/7637247) - Advanced Unity UI Shader
 
 ### [Patreon](https://www.patreon.com/z3y)
